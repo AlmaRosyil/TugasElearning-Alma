@@ -4,7 +4,7 @@
 **NIM:** 22552011262  
 **Kelas:** TIF RP 22CNS  
 
-Proyek ini merupakan aplikasi web sederhana untuk mengelola data mahasiswa menggunakan fitur **CRUD (Create, Read, Update, Delete)**. Aplikasi ini dikembangkan sebagai tugas e-learning pada mata kuliah Pemrograman Web.
+Proyek ini merupakan aplikasi web sederhana untuk mengelola data mahasiswa menggunakan fitur **CRUD (Create, Read, Update, Delete)**. Aplikasi ini dikembangkan sebagai tugas e-learning pada mata kuliah Pemrograman Web 2.
 
 ---
 
@@ -35,8 +35,8 @@ Proyek ini merupakan aplikasi web sederhana untuk mengelola data mahasiswa mengg
 
 ## 💻 Teknologi yang Digunakan
 
-- PHP & Laravel
-- Blade Templating Engine
+- PHP Laravel
+- Blade
 - Bootstrap 5
 - MySQL 
 
