@@ -38,7 +38,7 @@ Proyek ini merupakan aplikasi web sederhana untuk mengelola data mahasiswa mengg
 - PHP & Laravel
 - Blade Templating Engine
 - Bootstrap 5
-- MySQL (via Laravel Eloquent)
+- MySQL 
 
 ---
 
